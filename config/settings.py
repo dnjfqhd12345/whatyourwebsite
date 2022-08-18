@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'whatyourweb',  #mysql
         'USER': 'root', #root
         'PASSWORD': '1234', #1234
-        'HOST': 'localhost', #공백으로 냅두면 default localhost
+        'HOST': 'database-1.czl0vc7r6rbt.us-west-1.rds.amazonaws.com', #공백으로 냅두면 default localhost
         'PORT': '3307' #공백으로 냅두면 default 3306
     }
 }
